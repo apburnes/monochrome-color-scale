@@ -1,0 +1,32 @@
+{
+  "name": "monochrome-color-scale",
+  "version": "0.0.1",
+  "description": "Generate a monochromatic color scale for a color",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apburnes/monochrome-color-scale.git"
+  },
+  "keywords": [
+    "monochrome",
+    "color",
+    "scale",
+    "generator"
+  ],
+  "author": "apburnes <bizzurnzz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apburnes/monochrome-color-scale/issues"
+  },
+  "homepage": "https://github.com/apburnes/monochrome-color-scale#readme",
+  "dependencies": {
+    "color-convert": "^0.6.0"
+  },
+  "devDependencies": {
+    "code": "^1.5.0",
+    "lab": "^5.15.2"
+  }
+}
